@@ -6,7 +6,8 @@ import './button.css';
 export const Button = (props) => {
     const className = classnames (
         'button',
-        { rounded: props.rounded }
+        { rounded: props.rounded },
+        props.className
     );
     return (
         <button
