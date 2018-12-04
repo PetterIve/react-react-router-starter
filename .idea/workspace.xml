@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ccc160f-5a65-4fcd-a15c-9d24d657684d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/component-example/component-example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/home/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/routeMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/router.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/component-library/col/col.scss" afterPath="$PROJECT_DIR$/src/component-library/col/col.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes/component-example/component-example.js" afterPath="$PROJECT_DIR$/src/routes/component-example/component-example.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,12 +24,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="col.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="col.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/component-library/col/col.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="component-example.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/routes/component-example/component-example.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,12 +74,12 @@
         <option value="$PROJECT_DIR$/src/components/row/row.js" />
         <option value="$PROJECT_DIR$/src/components/col/col.scss" />
         <option value="$PROJECT_DIR$/src/components/col/col.js" />
-        <option value="$PROJECT_DIR$/src/routes/component-example/component-example.js" />
         <option value="$PROJECT_DIR$/src/routes/routeMap.js" />
         <option value="$PROJECT_DIR$/src/routes/router.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/routes/home/home.js" />
         <option value="$PROJECT_DIR$/src/component-library/col/col.scss" />
+        <option value="$PROJECT_DIR$/src/routes/component-example/component-example.js" />
       </list>
     </option>
   </component>
@@ -290,7 +295,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2715000" />
+    <option name="totallyTimeSpent" value="2985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1151" extended-state="6" />
@@ -581,16 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/component-example/component-example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/home/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -614,6 +609,16 @@
         <state relative-caret-position="60">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/component-example/component-example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
